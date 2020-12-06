@@ -1,16 +1,16 @@
 {
-    "name": "cdn",
-    "version": "0.0.1",
-    "description": "cdn by jsDelivr",
-    "main": "README.md",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/main-to/cdn.git"
-    },
-    "keywords": [
-      "cdn"
-    ],
-    "author": "liluoao <liluoao@qq.com>",
-    "license": "CC BY-NC-SA 4.0",
-    "homepage": "https://github.com/main-to/cdn#readme"
+  "name": "cdn",
+  "version": "0.0.1",
+  "description": "cdn by jsDelivr",
+  "main": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liluoao/cdn.git"
+  },
+  "keywords": [
+    "cdn"
+  ],
+  "author": "liluoao <liluoao@qq.com>",
+  "license": "CC-BY-NC-SA-4.0",
+  "homepage": "https://github.com/liluoao/cdn#readme"
 }
