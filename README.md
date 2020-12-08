@@ -1,3 +1,3 @@
 ## CDN
 
-> Main To CDN by jsDelivr
+> Ji Diao CDN by jsDelivr
