@@ -1,3 +1,1 @@
-## CDN
-
-> Ji Diao CDN by jsDelivr
+> by jsDelivr
